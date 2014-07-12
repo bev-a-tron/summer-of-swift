@@ -2,7 +2,7 @@
 
 ## Description
 
-<An app to inform people about reasons to go vegan.>
+An app to inform people about reasons to go vegan.  Not sure exactly what this app is going to do.  Possibly provide information about nutrition, restaurants, vegan (and non-vegan) foods, environment, health, and philosophical reasons for adopting a plant-based diet.
 
 ## San Francisco, CA
 
